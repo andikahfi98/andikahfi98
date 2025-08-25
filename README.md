@@ -21,7 +21,7 @@ Data analyst with expertise in data analysis, machine learning, and business int
 </p>
 
 ##  **Connect with Me** 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andikahfi98)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andikahfi98)
 
 
 <!--
