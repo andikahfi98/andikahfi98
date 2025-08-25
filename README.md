@@ -1,6 +1,10 @@
 # **HELLO WORLD!!!⚡⚡⚡**
 ![Header](github-header-banner.png)
 
+## **About Me✨**
+Data analyst with expertise in data analysis, machine learning, and business intelligence, developed through Purwadhika Digital Technology School’s Data Science program. Proficient in Python, SQL, Excel, Tableau, and Looker Studio, with a strong ability to turn complex datasets into actionable insights Background in the power plant industry has strengthened my problem-solving, teamwork, and leadership skills, enabling me to deliver data-driven solutions that optimize operations and support strategic decision-making
+
+
 
 ##  **Skills** 🛠️
 <p>
@@ -16,7 +20,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="excel"/>
 </p>
 
-
+##  **Connect with Me** 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andikahfi98)
 
 
 <!--
