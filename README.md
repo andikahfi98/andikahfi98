@@ -32,7 +32,7 @@ Data analyst with expertise in data analysis, machine learning, and business int
 
 ### 📍 Universitas Muslim Indonesia — *Makassar, Indonesia*  
 **Bachelor’s in Electrical Engineering**  
-- GPA: **3.44**  
+- GPA: **3.47**  
 - Aug 2022 – Feb 2025  
 
 ---
