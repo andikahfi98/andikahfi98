@@ -2,20 +2,17 @@
 ![Header](github-header-banner.png)
 
 ## **About Me✨**
-Data analyst with expertise in data analysis, machine learning, and business intelligence, developed through Purwadhika Digital Technology School’s Data Science program. Proficient in Python, SQL, Excel, Tableau, and Looker Studio, with a strong ability to turn complex datasets into actionable insights Background in the power plant industry has strengthened my problem-solving, teamwork, and leadership skills, enabling me to deliver data-driven solutions that optimize operations and support strategic decision-making
+Detail-oriented Data Analyst with strong expertise in data analysis, business intelligence, and machine learning, gained through hands-on projects and professional internships. Skilled in Python, SQL, Excel, Tableau, Power BI, and Looker Studio, with the ability to transform raw datasets into actionable business insights. Experienced in dashboard development, data engineering, and predictive modeling to support data-driven decision-making. Background in the power plant industry has built solid skills in problem solving, process optimization, and cross-functional collaboration, and is ready to contribute analytical and technical expertise to support organizational growth.
 
 ##  **Skills** 🛠️
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="mysql"/>
-</p>
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/google-looker.png" alt="looker"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="excel"/>
+<p align="left">
+  <a href="#"><img src="https://img.icons8.com/color/48/python--v1.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/anaconda--v2.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/my-sql.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/power-bi-2021.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/google-looker.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/ms-excel.png"/></a>
 </p>
 
 ##  **Connect with Me** 
