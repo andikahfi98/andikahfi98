@@ -22,6 +22,27 @@ Data analyst with expertise in data analysis, machine learning, and business int
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andikahfi98)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andikahfiii)
 
+## **Experience**
+### 📍 PT Erajaya Swasembada — *West Jakarta, Indonesia*  
+**Data Analyst and Monitoring**
+- Apr 2026 - Now
+
+**Data Analyst and Monitoring Intern**
+- Oct 2025 - Apr 2026
+
+### 📍 PT Stargate Pasific Resources — *South Jakarta, Indonesia*  
+**Data Analyst Intern**
+- Jan 2025 - Apr 2025
+
+### 📍 PT Indonesian Tsingshan Stainless Steel — *Central Sulawesi, Indonesia*  
+**Power Plant Control Room Assistant Operator**
+- Jan 2022 - Aug 2024
+
+**Power Plant Control Room Operator Intern**
+- Feb 2020 - Feb 2021
+
+---
+
 ## **Education**
 ### 📍 Politeknik Industri Logam Morowali — *Morowali, Indonesia*  
 **Diploma in Electrical Engineering**  
